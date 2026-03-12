@@ -1,7 +1,0 @@
-백준 1912 연속합 문제
-= 카데인 알고리즘을 사용하여 푸는 문제
-예) for (int i = 1; i < a; i++) {
-	curmax = max(v[i], curmax + v[i]);
-	glomax = max(glomax, curmax);
-}
-이런식으로 현재까지의 최대값과 더한 최대값중 비교하여 최댓값을 결정
