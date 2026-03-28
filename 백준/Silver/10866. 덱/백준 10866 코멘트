@@ -1,0 +1,4 @@
+배열을 앞과 뒤에서 동시에 삽입할 수 있는 덱을 구현하는 문제
+덱은 pushback, pushfront로 삽입하고
+popback, popfront로 데이터에 접근한다
+그 외 벡터와 같이 size나 empty 같은 기능도 존재한다.
